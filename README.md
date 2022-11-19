@@ -1,3 +1,4 @@
+<div align=center>
 ### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CHUBINI%20GITHUB&fontSize=90)
@@ -16,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ </div>
