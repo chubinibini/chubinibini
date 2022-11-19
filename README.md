@@ -6,8 +6,8 @@
  
 
  
- :raised_hands: INTRODUCTION
- 안녕하세요, 현재 파이썬을 배우는 중 입니다.<br/>
+ :raised_hands: INTRODUCTION <br/>
+ 안녕하세요, 현재 파이썬을 배우는 중 입니다. <br/>
  멋진 데이터 분석가가 될 거에요!
 
  :zap: SKILL
