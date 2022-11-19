@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/PYTHON-61DAFB?style=flat&logo=React&logoColor=white"/>
  
  :raised_hands:
+ 안녕하세요! 코딩을 배우는 중 입니다.
+
  
 <!--
 **chubinibini/chubinibini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
