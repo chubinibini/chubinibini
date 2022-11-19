@@ -11,7 +11,7 @@
  멋진 데이터 분석가가 될 거에요!
 
 ###  :zap: SKILL <br/>
-  <img src="https://img.shields.io/badge/PYTHON-FCC624?style=flat&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PYTHON-4053D6?style=flat&logo=React&logoColor=black"/>
  
 <!--
 **chubinibini/chubinibini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
