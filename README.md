@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CHUBINI%GITHUB&fontSize=90)
   <img src="https://img.shields.io/badge/PYTHON-61DAFB?style=flat&logo=React&logoColor=white"/>
 <!--
 **chubinibini/chubinibini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
