@@ -4,11 +4,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CHUBINI%20GITHUB&fontSize=90)
  
-  <img src="https://img.shields.io/badge/PYTHON-61DAFB?style=flat&logo=React&logoColor=white"/>
- 
- :raised_hands:
- 안녕하세요! 코딩을 배우는 중 입니다.
 
+ 
+ :raised_hands: INTRODUCTION
+ 안녕하세요, 현재 파이썬을 배우는 중 입니다.
+ 멋진 데이터 분석가가 될 거에요!
+
+ :zap: SKILL
+  <img src="https://img.shields.io/badge/PYTHON-61DAFB?style=flat&logo=React&logoColor=white"/>
  
 <!--
 **chubinibini/chubinibini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
